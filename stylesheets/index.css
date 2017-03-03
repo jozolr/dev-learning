@@ -1,0 +1,8 @@
+.jumbotron {
+    font-family : calibri, sans-serif;
+    text-align: center;
+}
+
+.navbar-brand, navbar-nav {
+  font-family : calibri, sans-serif;
+}
