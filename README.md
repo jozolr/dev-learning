@@ -1,18 +1,15 @@
 # HOW TO SETUP THE ENVIRONMENT
 ## Installations
-#### 1. ionic and cordova fameworks
 
-' npm install -g ionic cordova '
-
-#### 2. mocha to run tests
+#### 1. mocha to run tests
 
 ' npm install mocha --serve-dev '
 
 
 ## Let's run it
-#### 1. lunch ionic server
+#### 1. lunch node server
 
-' ionic serve '
+' npm start '
 
 #### 2. run tests
 
