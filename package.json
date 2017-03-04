@@ -1,15 +1,15 @@
 {
-  "name"         : "sylphidus",
-  "version"      : "0.0.1",
-  "description"  : "Sylphidus",
-  "main"         : "server.js",
-  "author"       : "Jozo",
-  "scripts"      : {
-    "start" : "node server.js",
-    "test" : "mocha ./tests/*.js"
-  },
-  "dependencies" : {
-    "express" : "*",
-    "mysql": "*"
-  }
+    "name": "sylphidus",
+    "version": "0.0.1",
+    "description": "Sylphidus",
+    "main": "server.js",
+    "author": "Jozo",
+    "scripts": {
+        "start": "node server.js",
+        "test": "mocha ./tests/*.js"
+    },
+    "dependencies": {
+        "express": "*",
+        "mysql": "*"
+    }
 }
